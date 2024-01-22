@@ -34,8 +34,6 @@ Take full advantage of the [.clang-format](.clang-format) file located in the ro
 
 ## Dependencies
 
-### Third party Dependencies
-
 - [ekizu](https://github.com/xminent/ekizu) - C++ library for Discord API
 - [spdlog](https://github.com/gabime/spdlog) - C++ logging library
 
